@@ -26,4 +26,4 @@ This project demonstrates the implementation of graph-based algorithms and their
 This project was developed as part of coursework at **Amirkabir University of Technology (AUT)**.  
 
 ## License  
-This project is licensed under the AUT License. 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
